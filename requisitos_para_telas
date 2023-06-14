@@ -1,0 +1,10 @@
+1 - Na tela padrão deve mostrar o poder e seu limiar assim como as moedas
+2 - Ao tentr fazer uma viagem dee dizer quantas moedas serão perdidas cso aceite viajar para a cidade selecionada
+3 - Quando for decidir qual cidade escolher deve mostrar apenas as cidades que fazem fronteira com a cidade atual que Max se encontra
+4 - dialogo do mercador deve ser a primeira coisa que ocorrera quando chegar em uma nova cidade 
+5 - as telas de dialogos não terão imagens do Max nem do Mercador então é exencial especificar quem estara falando colocando seus nomes nas telas de dialogos
+6 - fazer uma tela de regras para auxiliar caso o player tenha alguma duvidade sobre como jogar o jogo (Aberto a Tebate sobre necessidade)
+7 - Tela de Missão deve apressentar o conteudo da missão junto com a recompensa da missão por aceitação e conclusão
+8 - Caso já esteja em uma missão quando for abrir outra deve aparecer uma notificção de que o Player já esta em uma missão e ao aceitar a missão a anterior sera cancelada sem ter a possibilidade de ser aceita novamente
+9 - Como o Player deve ser capaz de abandonar a missõ a qualquer momento a tela de abandonar missão deve informar o objetivo da missão e recompensa por conclusão antes da opção de cancelar a missão 
+10 - tela de conclusão de jogo deve informar o numero de moedas que o jogador terminou com alem do poder e que nivel de nobreza o Max terminou com dando assim um final bom, neutro ou ruim
